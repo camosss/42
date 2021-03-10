@@ -1,0 +1,6 @@
+Credentials cache: API:082D2835-FC4F-4834-A4A6-9A830CF40081
+        Principal: hokang@42SEOUL.KR
+
+  Issued                Expires               Principal
+Feb 18 09:50:48 2021  Feb 18 19:50:48 2021  krbtgt/42SEOUL.KR@42SEOUL.KR
+Feb 18 09:50:50 2021  Feb 18 19:50:48 2021  HTTP/student-storage.42seoul.kr@42SEOUL.KR
